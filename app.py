@@ -7,7 +7,7 @@ st.header('A RAG App')
 
 
 
-groqapi='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'
+groqapi=''
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
